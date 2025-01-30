@@ -1,5 +1,5 @@
 # prueba
 primer repo creado en github
 
-## escripccion
+## descripccion
 Este es mi primer repo
